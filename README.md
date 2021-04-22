@@ -2,7 +2,7 @@
 >Simple Java console program. 
 
 ## Features 
-* add / delete / display tasks
+* add / display / edit / delete tasks
 * import data from csv file
 * export data to the file
 * loops
